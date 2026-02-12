@@ -3,7 +3,7 @@
 # Siyana — Full-Stack Developer 👩‍💻
 
 <div align="center">
-  <img src="https://github.com/Siyana158.png" width="120" alt="Siyana avatar" style="border-radius:50%"/>
+  <!-- <img src="https://github.com/Siyana158.png" width="120" alt="Siyana avatar" style="border-radius:50%"/> -->
   
   <h2>Building performant web apps & cloud-native systems</h2>
   <p><strong>React • Node.js • AWS • Docker • MongoDB</strong></p>
@@ -81,17 +81,34 @@ Key strengths:
   <!-- Contribution calendar -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siyana158&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
 
-  <!-- Stats table: stable service endpoints -->
+  <!-- Replaced dynamic widgets with stable shields (fallbacks for external services) -->
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Siyana158&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siyana158&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/></td>
+      <td align="center">
+        <a href="https://github.com/Siyana158?tab=repositories"><img src="https://img.shields.io/github/search?query=user%3ASiyana158&style=for-the-badge&label=Public%20Repos&color=2b3137" alt="public repos"/></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Siyana158"><img src="https://img.shields.io/github/followers/Siyana158?style=for-the-badge&logo=github&label=Followers&color=2b3137" alt="followers"/></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Siyana158/Siyana158"><img src="https://img.shields.io/github/stars/Siyana158/Siyana158?style=for-the-badge&logo=github&label=Profile%20Repo%20Stars&color=2b3137" alt="profile repo stars"/></a>
+      </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siyana158&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Siyana158&theme=tokyonight&no-frame=true&column=7" alt="Trophies"/>
+  <!-- Top languages (static badges as reliable fallback) -->
+  <div align="center" style="margin-top:8px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  </div>
+
+  <!-- Achievements fallback -->
+  <div align="center" style="margin-top:8px;">
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" alt="Open Source Contributor" />
+    <img src="https://img.shields.io/badge/Community-Speaker-blue?style=for-the-badge" alt="Community Speaker" />
+  </div>
 </div>
 
 ---
