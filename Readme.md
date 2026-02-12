@@ -1,6 +1,6 @@
 <!-- Polished Profile README for Siyana158 -->
 
-# Siyana — Full-Stack Developer 👩‍💻
+# Mary prisilda Antony George — Full-Stack Developer 👩‍💻
 
 <div align="center">
   <!-- <img src="https://github.com/Siyana158.png" width="120" alt="Siyana avatar" style="border-radius:50%"/> -->
