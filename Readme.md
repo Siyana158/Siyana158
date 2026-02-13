@@ -117,8 +117,8 @@ Key strengths:
 
 Connect with me:
 
-- LinkedIn: https://linkedin.com/in/siyana158
-- Email: siyana158@gmail.com
+- LinkedIn: https://linkedin.com/in/maryprisildaj
+- Email: siyana175@gmail.com
 - GitHub: https://github.com/Siyana158
 
 ---
