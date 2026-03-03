@@ -47,7 +47,6 @@ I design and build web applications with a focus on reliability, performance, an
   <img src="https://github-readme-stats.vercel.app/api?username=Siyana158&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Siyana158 Stats" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siyana158&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Siyana158 Top Languages" />
-  <img src="https://github.com/Siyana158/Siyana158/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
