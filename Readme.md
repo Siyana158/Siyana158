@@ -53,6 +53,16 @@ I design and build web applications with a focus on reliability, performance, an
 </div>
 
 ---
+## 📈 Activity & Contributions
+
+<div align="center">
+
+### 📅 Contribution Calendar
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siyana158&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
+
+## 🤝 Let's Connect
+
+<div align="center">
 
 ## Featured Projects
 
